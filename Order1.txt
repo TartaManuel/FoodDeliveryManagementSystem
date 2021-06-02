@@ -1,0 +1,9 @@
+Orderul numarul 1 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Fresh Corn Tortillas , Rating:3.75, Calories:23, Protein:1, Fat:2, Sodium:61, Price:79
+Smoked Caviar and Hummus on Pita Toasts , Rating:5.0, Calories:23, Protein:1, Fat:2, Sodium:49, Price:79
+Cauliflower-Leek Purée , Rating:3.125, Calories:23, Protein:2, Fat:0, Sodium:149, Price:13
+
+Pret total: 171

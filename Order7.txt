@@ -1,0 +1,8 @@
+Orderul numarul 7 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Almond and Chocolate Dacquoise with Cranberry Sauce , Rating:5.0, Calories:304, Protein:4, Fat:13, Sodium:69, Price:41
+Beef Bourguignonne Pot Pie , Rating:3.125, Calories:542, Protein:8, Fat:39, Sodium:711, Price:94
+
+Pret total: 135

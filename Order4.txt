@@ -1,0 +1,8 @@
+Orderul numarul 4 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Seared Tuna on Fettuccine with Green Olives and Arugula , Rating:4.375, Calories:775, Protein:14, Fat:68, Sodium:731, Price:43
+Tortilla Espanola , Rating:4.375, Calories:773, Protein:52, Fat:42, Sodium:1005, Price:43
+
+Pret total: 86

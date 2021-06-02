@@ -1,0 +1,8 @@
+Orderul numarul 8 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Striped Bass with Saffron Vegetables and Spiced Broccoli Rabe , Rating:3.75, Calories:544, Protein:11, Fat:32, Sodium:112, Price:16
+Cowboy Flatbread Topped with Arugula Salad and Lemon-Pepper Dressing , Rating:3.75, Calories:544, Protein:40, Fat:32, Sodium:547, Price:23
+
+Pret total: 39

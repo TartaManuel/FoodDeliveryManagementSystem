@@ -1,0 +1,7 @@
+Orderul numarul 2 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Ethiopian Spice Tea , Rating:5.0, Calories:23, Protein:1, Fat:0, Sodium:13, Price:49
+
+Pret total: 49

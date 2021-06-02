@@ -1,0 +1,7 @@
+Orderul numarul 5 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Fresh Corn Tortillas , Rating:3.75, Calories:23, Protein:1, Fat:2, Sodium:61, Price:79
+
+Pret total: 79

@@ -1,0 +1,8 @@
+Orderul numarul 6 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Smoked Caviar and Hummus on Pita Toasts , Rating:5.0, Calories:23, Protein:1, Fat:2, Sodium:49, Price:79
+Cilantro-Tomato Salsa , Rating:3.75, Calories:23, Protein:1, Fat:0, Sodium:7, Price:32
+
+Pret total: 111

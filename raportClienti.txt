@@ -1,0 +1,3 @@
+Clientii care au comandat de cel putin 1 ori cu valoarea orderului 100 sunt:
+1
+2

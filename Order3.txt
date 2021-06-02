@@ -1,0 +1,8 @@
+Orderul numarul 3 comandat in data de 2/6/2021
+
+Date despre client: Id 2, Email c1
+Produsele comandate sunt:
+Cilantro-Tomato Salsa , Rating:3.75, Calories:23, Protein:1, Fat:0, Sodium:7, Price:32
+Beef Bourguignonne Pot Pie , Rating:3.125, Calories:542, Protein:8, Fat:39, Sodium:711, Price:94
+
+Pret total: 126
